@@ -1,0 +1,13 @@
+ #d1,
+ #d2,
+ #d3 {
+     width: 3em;
+     height: 3em;
+     z-index: 999;
+ }
+
+ #line1,
+ #line1,
+ #line1 {
+     z-index: 0;
+ }
